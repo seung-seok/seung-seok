@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @seung-seok
-- 👀 I’m interested in PHP !
-- 🌱 I’m currently learning PHP with Laravel, Codeigniter
-- 💞️ I’m looking to collaborate on Java with Spring
-- 📫 How to reach me https://seung-seok.tistory.com
+
